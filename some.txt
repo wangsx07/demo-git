@@ -1,0 +1,3 @@
+reference pointcut
+引用其他的切入点pointcut,包名.类名.方法名称()
+@pointcut("PC1")
